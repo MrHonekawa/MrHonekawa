@@ -1,6 +1,6 @@
 Hi
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MrHonekawa/&title=Profile%20Views)
+![Profile Views](![](https://komarev.com/ghpvc/?username=MrHonekawa&color=green))
 
 
 ### Stats ⚡️
