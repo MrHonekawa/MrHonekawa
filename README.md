@@ -1,6 +1,6 @@
 Hi
 
-![Profile Views](![](https://komarev.com/ghpvc/?username=MrHonekawa&color=green))
+![](![](https://komarev.com/ghpvc/?username=MrHonekawa&color=green))
 
 
 ### Stats ⚡️
